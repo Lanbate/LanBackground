@@ -1,0 +1,31 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "server.js",
+  "scripts": {
+    "lbackground-install": "npm install --prefix lbackground",
+    "lbackground": "npm start --prefix lbackground",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "inst": "concurrently \"npm install\" \"npm run lbackground-install\"",
+    "dev": "concurrently \"npm run server\" \"npm run lbackground\""
+  },
+  "author": "Lan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.0",
+    "decode": "^0.3.0",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.10",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  }
+}
