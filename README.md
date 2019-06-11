@@ -11,6 +11,9 @@
 #安装依赖
 `npm inst`
 
+#连接数据库
+`config\kes.js\mongoURI里输入mongodb数据库链接`
+
 # 项目启动
 `npm run dev`
 
