@@ -1,4 +1,6 @@
 ### 基于Vue.js和node开发出来的后台管理系统
+### 基于elementUI库开发,express框架,Token验证处理,请求和响应拦截等技术
+### 仅供学习！
 ###  **demo** 
 
 ![登录](https://images.gitee.com/uploads/images/2019/0611/113955_dd15ebc2_1138914.png "首页.PNG")
