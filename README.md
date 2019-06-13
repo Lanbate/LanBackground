@@ -5,6 +5,23 @@
  :smiley: 这是个人业余时间制作的项目，后期有时间会慢慢追加模块<br/>
  **版权说明**<br/>
  **该项目签署了MIT 授权许可，详情请参阅 LICENSE.md** 
+ 
+<div align="center">
+  <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg"
+      alt="API stability" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/vue.js-2.x-brightgreen.svg"
+      alt="API stability" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/node.js-v10.15.3-yellow.svg"
+      alt="API stability" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/express-4.16.3-orange.svg"
+      alt="API stability" />
+</div>
 
 :loudspeaker: 基于Vue.js和node开发出来的全栈后台管理系统<br/>
 :loudspeaker: 基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术<br/>
