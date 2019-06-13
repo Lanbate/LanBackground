@@ -6,11 +6,11 @@
  **版权说明**<br/>
  **该项目签署了MIT 授权许可，详情请参阅 LICENSE.md** 
 
-- :tw-1f31f: 基于Vue.js和node开发出来的全栈后台管理系统
--  :tw-1f4cc:基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术
--  :tw-1f4ce:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时等
--  :tw-26a0: 仅供学习！
--  :tw-1f4fa: **项目展示截图** 
+:loudspeaker: 基于Vue.js和node开发出来的全栈后台管理系统
+:loudspeaker: 基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术
+:jack_o_lantern:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时等
+:u7981:仅供学习！
+:round_pushpin:**项目展示截图** 
 
 
 ![登录](https://images.gitee.com/uploads/images/2019/0611/113955_dd15ebc2_1138914.png "首页.PNG")
