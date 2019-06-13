@@ -24,7 +24,7 @@
 </div>
 :loudspeaker: 基于Vue.js和node开发出来的全栈后台管理系统<br/>
 :loudspeaker: 基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术<br/>
-:jack_o_lantern:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时等<br/>
+:jack_o_lantern:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时,权限管理等<br/>
 :u7981:仅供学习！<br/>
 :round_pushpin:**项目展示截图** <br/>
 
