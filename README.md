@@ -1,11 +1,10 @@
  
-
-### **岚细菌的后台管理系统** 
+<h1 align="center">岚细菌的后台管理系统</h1>
  
  :smiley: 这是个人业余时间制作的项目，后期有时间会慢慢追加模块<br/>
  **版权说明**<br/>
  **该项目签署了MIT 授权许可，详情请参阅 LICENSE.md** 
- 
+ <div align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg"
       alt="API stability" />
@@ -22,7 +21,7 @@
   <img src="https://img.shields.io/badge/express-4.16.3-orange.svg"
       alt="API stability" />
 </div>
-
+</div>
 :loudspeaker: 基于Vue.js和node开发出来的全栈后台管理系统<br/>
 :loudspeaker: 基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术<br/>
 :jack_o_lantern:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时等<br/>
