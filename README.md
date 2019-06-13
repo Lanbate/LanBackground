@@ -1,4 +1,3 @@
- 
 - :tw-1f31f: 基于Vue.js和node开发出来的全栈后台管理系统
 -  :tw-1f4cc:基于elementUI库开发,JWT,express框架,Token验证处理,请求和响应拦截等技术
 -  :tw-1f4ce:实现了数据 增删改查,筛选,分页,bcrypt密码加密,令牌限时等
